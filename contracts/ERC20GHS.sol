@@ -5,7 +5,7 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
 contract BooToken is ERC20{
 
-    constructor() ERC20("GH", "GHS"){
+    constructor() ERC20("GHANACEDIS", "GHS"){
         _mint(msg.sender, 100000 * 10 ** decimals());
     }
 }
