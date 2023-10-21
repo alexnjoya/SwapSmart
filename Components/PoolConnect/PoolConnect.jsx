@@ -83,7 +83,7 @@ const PoolConnect = ({ setClosePool, getAllLiquidity, account }) => {
           </div>
           <div className={Style.PoolConnect_box_info_right}>
             <h5>Top pools</h5>
-            <p>Explore Uniswap Analytics</p>
+            <p>Explore swap smart Analytics</p>
           </div>
         </div>
       </div>

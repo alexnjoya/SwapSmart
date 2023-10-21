@@ -90,7 +90,7 @@ const Tokens = () => {
   return (
     <div className={Style.Tokens}>
       <div className={Style.Tokens_box}>
-        <h2>Top tokens on Uniswap</h2>
+        <h2>Top tokens on Swap Smart</h2>
         <div className={Style.Tokens_box_header}>
           <div className={Style.Tokens_box_ethereum}>
             <p>
